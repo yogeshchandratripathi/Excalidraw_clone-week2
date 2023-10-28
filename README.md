@@ -1,13 +1,13 @@
-yogesh chandra tripathi excildraw project
+<b>yogesh chandra tripathi excildraw project</b>
 <hr>
-Excalidraw Clone Project
+<b>Excalidraw Clone Project</b>
 <hr>
 In the last week, we will be focusing on using JavaScript to shapes and adding functionalities to enhance the user experience..
-
-Project Status
+<hr>
+<b>Project Status</b>
 This project is currently under development and is a work in progress Tasks are scheduled to be completed within a three-week timeframe, with weekly updates on our progress. Please check back regularly for the latest updates and contributions.
-
-Components
+<hr>
+<b>Components</b>
 The Excalidraw User Interface (UI) can conveniently be divided into different sections to create a clone. Here's a list of the various sections we will consider when breaking down the entire clone into components:
 
 1.A menu which has basic shapes like Square, Rectangle, Triangle and Circle. User can select and shape from the menu and finally the user is able to draw the shapes on the canvas
